@@ -1,4 +1,4 @@
 # Divulgation
-In this repository we want to include all related to the divulgation of the project and the underlying science.
+This repository contains the divulgation side of the project.
 
 **Modelos de crecimiento:**
