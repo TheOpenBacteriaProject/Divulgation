@@ -4,6 +4,10 @@
 
 This repository contains the divulgation side of the project.
 
-**Modelos de crecimiento:** A Jupyter notebook file (Python). In this file we explain the basics about mathematical growth modelling, we'll see the exponential model and the logistic model. There are also some interactives widgets where you can experimenting with this models and learn more about them.
-
-**Técnicas de cultivo:** A PDF containing the results of our laboratory growing bacteria experiments in different conditions.
+* *Google Analytics* contains some information about our impact on Google searchs.
+* *Modelos de crecimiento* contains an interactive Jupyter Notebook.
+* *Presentations* contains all our presentations we've made previously to Impaciencia's one.
+* *Twitter Analytics* contains information abour our impact on Twitter.
+* *YouTube Analytics* contains information abour our impact on YouTube.
+* **Twitter.md** contains a sum of our campaign #SabíasQue on Twitter.
+* **YouTube.md** contains a sum of our YouTube channel.
