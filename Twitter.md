@@ -9,7 +9,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/bicarbonato-s%C3%B3dico.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/981203386426118144)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/981203386426118144)
 
 ## 4th April 2018
 
@@ -17,7 +17,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/esther-lederberg.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/981426113930059776)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/981426113930059776)
 
 ## 5th April 2018
 
@@ -25,7 +25,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/haloquadratum-walsbyi.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/981911495629041670)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/981911495629041670)
 
 ## 6th April 2018
 
@@ -33,7 +33,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/methanopyrus-kandleri.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/982164627755683840)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/982164627755683840)
 
 ## 9th April 2018
 
@@ -41,7 +41,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/deinococcus-radiodurans.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/983359099059560448)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/983359099059560448)
 
 ## 10th April 2018
 
@@ -49,7 +49,7 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/actinomycetes.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/983669956544999424)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/983669956544999424)
 
 ## 11th April 2018
 
@@ -57,4 +57,4 @@ This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 <img src="https://github.com/TheOpenBacteriaProject/Branding/blob/master/Social-Media/Twitter-Final-Campaign/atacama-desert.jpg" width="500">
 
-![Link to Tweet](https://twitter.com/TheOpenBacteria/status/983989233395339270)
+[Link to Tweet](https://twitter.com/TheOpenBacteria/status/983989233395339270)
