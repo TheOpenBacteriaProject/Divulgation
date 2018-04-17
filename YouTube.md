@@ -9,3 +9,4 @@ This is a Markdow file containg a sum of our YouTube Channel.
 * Vlog 2 - [Link](https://www.youtube.com/watch?v=vjcAIWac0tc)
 * Vlog 3 - [Link](https://www.youtube.com/watch?v=cDXpKiRzrWE)
 * Divulgation 1 - [Link](https://www.youtube.com/watch?v=2I2NMz23cow)
+* Divulgation 2 - [Link](https://www.youtube.com/watch?v=d5sfG7ydCQ4)
