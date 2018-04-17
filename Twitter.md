@@ -1,5 +1,7 @@
 # Twitter
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 This is a Markdow file containg our campaign #SabíasQue on Twitter.
 
 ## 3rd April 2018
